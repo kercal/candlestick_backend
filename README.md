@@ -39,6 +39,8 @@ Before you begin, make sure you have the following installed:
 ````bash
 ./gradlew run
 
+```
+
 ## Running Tests and Usage
 
 To make sure everything is working correctly, run the tests using:
@@ -46,5 +48,8 @@ To make sure everything is working correctly, run the tests using:
 ```bash
 ./gradlew test
 
+```
+
 Once the application is running, you can retrieve candlestick data for any instrument by making a GET request to the following endpoint: http://localhost:9000/candlesticks?isin={ISIN}
+
 ````
