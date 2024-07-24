@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Candlestick Aggregator
 
 ## Project Overview
@@ -45,3 +46,6 @@ To make sure everything is working correctly, run the tests using:
 ./gradlew test
 
 Once the application is running, you can retrieve candlestick data for any instrument by making a GET request to the following endpoint: http://localhost:9000/candlesticks?isin={ISIN}
+=======
+# candlestick_backend
+>>>>>>> origin/main
