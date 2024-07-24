@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Candlestick Aggregator project! This system is designed to help you view price histories in the form of minute candlesticks. The project receives updates from a partner service, transforms these updates, and provides the aggregated data through an easy-to-use API endpoint.
+This system is designed to help you view price histories in the form of minute candlesticks. The project receives updates from a partner service, transforms these updates, and provides the aggregated data through an easy-to-use API endpoint.
 
 ## Setup Instructions
 
